@@ -1,0 +1,14 @@
+{
+  "name": "learn_js",
+  "version": "1.0.0",
+  "description": "learn js",
+  "main": "learnOOP.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "ypw",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
