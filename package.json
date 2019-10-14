@@ -2,6 +2,10 @@
   "name": "learn_js",
   "version": "1.0.0",
   "description": "learn js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypwxxx/learn_js"
+  },
   "main": "learnOOP.js",
   "scripts": {
     "test": "run"
@@ -9,6 +13,9 @@
   "author": "ypw",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "cannon": "^0.6.2",
+    "jquery": "^3.4.1",
+    "scenejs": "^1.1.4",
+    "three-js": "^79.0.0"
   }
 }
