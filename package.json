@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "cannon": "^0.6.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "scenejs": "^1.1.4",
     "three-js": "^79.0.0"
   }
